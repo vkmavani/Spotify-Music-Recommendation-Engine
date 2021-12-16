@@ -1,4 +1,4 @@
-# Spotify Music Recommendation System
+# Spotify Music Recommendation Engine
 
 To check the visualization better please check [Kaggle Notebook](https://www.kaggle.com/vatsalmavani/music-recommendation-system-using-spotify-dataset)
 
