@@ -1,6 +1,6 @@
 # Spotify Music Recommendation Engine
 
-To check the visualization better please check [Kaggle Notebook](https://www.kaggle.com/vatsalmavani/music-recommendation-system-using-spotify-dataset)
+**NOTE**: There is some issue in loading notebook on github, therefore to check the full notebook and better visualizations please check [Kaggle Notebook](https://www.kaggle.com/vatsalmavani/music-recommendation-system-using-spotify-dataset)
 
 ### General Overview
 
